@@ -1,1 +1,1 @@
-# goit-js-hw-01
+### JavaScript Fundamentals: From Basics to Advanced Concepts
